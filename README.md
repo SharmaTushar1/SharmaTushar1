@@ -25,6 +25,9 @@
     <a href="https://sharmatushar1.github.io/fylo-data-storage-component-master/">Fully responsive data storage template</a>
   </li>
   <li>
+    <a href="https://sharmatushar1.github.io/Simon-Game/">Simon Game</a>
+  </li>
+  <li>
     <a href="https://sharmatushar1.github.io/soical-proof-section-master/">Fully Social Proof template</a>
   </li>
 </ul>
