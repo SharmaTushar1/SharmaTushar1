@@ -30,6 +30,9 @@
   <li>
     <a href="https://sharmatushar1.github.io/soical-proof-section-master/">Fully Social Proof template</a>
   </li>
+  <li>
+    <a href="https://sharmatushar1.github.io/Calculator/">Multi theme calculator App</a>
+  </li>
 </ul>
 
 </br>
