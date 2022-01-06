@@ -17,7 +17,7 @@
 - 😁 I'm experienced with **HTML||CSS||JAVASCRIPT**
 
 
-- 😬 I'm familiar with **C++||JAVA||C||PYTHON**
+- I work with **JAVA||C++||C||**
 
 - Some of the projects I've worked on include
 -<ul>
