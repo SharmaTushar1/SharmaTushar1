@@ -20,19 +20,20 @@
 - I work with **JAVA||C++||C||**
 
 - Some of the projects I've worked on include
--<ul>
-  <li type = "circle">
-    <ul><li>
+<ul>
+    <li>
     <a href="https://sharmatushar1.github.io/fylo-data-storage-component-master/">Fully responsive data storage template</a>
   </li>
   <li>
     <a href="https://sharmatushar1.github.io/soical-proof-section-master/">Fully Social Proof template</a>
-  </li></ul>
+  </li>
   </li>
   <li>
-    <a href="https://sharmatushar1.github.io/Simon-Game/">Simon Game</a>
+    <a href="https://sharmatushar1.github.io/Keeper-App/">Google Keeps Clone</a>
   </li>
-  
+  <li>
+  <a href = "https://sharmatushar1.github.io/to-do-app/" target = "_blank">To-do list</a>
+</li>
   <li>
     <a href="https://sharmatushar1.github.io/Calculator/">Multi theme calculator App</a>
   </li>
