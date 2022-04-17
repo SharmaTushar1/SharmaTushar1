@@ -11,7 +11,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React||MongoDB||NodeJS||**
+- 🌱 I’m currently learning **React||Springboot**
 
 
 - 😁 I'm experienced with **HTML||CSS||JAVASCRIPT**
