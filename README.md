@@ -1,4 +1,4 @@
-<h2 align = "center">Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" style="max-width:29px; padding-right: 20px;">, I'm Tushar Sharma</h2>
+<h2 align = "center">Hey <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true">, I'm Tushar Sharma</h2>
 <div align="center">
 <a href="https://twitter.com/SharmaTushar1_"><img src = "https://camo.githubusercontent.com/fef1158854fdaa05fa99ba4cb50401cfcfe84234b93b1aa9123ea354037b323c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31322e322f69636f6e732f747769747465722e737667" width="29px" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/tusharsharma31/"><img src = "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="29px" style="max-width:100%"></img></a>
