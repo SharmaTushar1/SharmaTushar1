@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h4 align="left">I'm an undergraduate (2023 grad) pursuing my Bacherlor's degree in computer science and looking for internship/sde roles.</h4>
+<h4 align="left">I'm a 2023 grad pursuing my Bacherlor's degree in computer science and looking for internship && sde roles.</h4>
 
 <br>
 
