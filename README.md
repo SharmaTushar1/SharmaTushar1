@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h4 align="left">I'm an undergraduate pursuing my Bacherlor's degree in computer science.</h4>
+<h4 align="left">I'm an undergraduate (2023 grad) pursuing my Bacherlor's degree in computer science and looking for internship/sde roles.</h4>
 
 <br>
 
@@ -15,6 +15,8 @@
 
 
 - 😁 I'm experienced with **HTML||CSS||JAVASCRIPT**
+
+- I love solving problems and writing posts about them (mostly on <a href="https://medium.com/@SharmaTushar1">medium</a> and <a href="https://leetcode.com/SharmaTushar1/">leetcode</a>). Some of my profiles are linked here.
 
 
 - I work with **JAVA||C++||C||**
