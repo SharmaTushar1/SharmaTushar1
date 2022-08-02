@@ -2,7 +2,7 @@
 
 ## I'm final year CS student pursuing my bachelors degree.
 
-- 🌱 I’m always learning about problem solving and devlopment.
+- 🌱 I’m always learning something new.
 - ⚡ Fun fact: I like to play guitar.
 - 👌🏼 Interests: <a href = "https://leetcode.com/SharmaTushar1/">Problem solving</a>, Tech, Music, Workout, Science, and random fun facts.
 - 🔍 Looking for: Internships and SDE roles
