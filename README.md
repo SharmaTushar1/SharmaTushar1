@@ -31,5 +31,3 @@
 <br />
 <br />
 
-
-                               "Nothing lasts forever, except the memories you made and the life you lived."
