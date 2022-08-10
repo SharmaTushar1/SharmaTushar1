@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I like to play guitar.
 - 👌🏼 Interests: Problem Solving  , Tech, Music, Workout, Science, and random fun facts.
 - 🔍 Looking for: Internships and SDE roles
-- 👨🏼‍💻Problem solving profiles: <a href = "https://leetcode.com/SharmaTushar1/">Leetcode</a>, <a href = "https://auth.geeksforgeeks.org/user/jameshowlett/practice/"> GeeksforGeeks</a>
+- 👨🏼‍💻 Problem solving profiles: <a href = "https://leetcode.com/SharmaTushar1/">Leetcode</a>, <a href = "https://auth.geeksforgeeks.org/user/jameshowlett/practice/"> GeeksforGeeks</a>
 
 ### Connect with me:
 
