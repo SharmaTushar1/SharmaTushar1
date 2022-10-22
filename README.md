@@ -5,7 +5,7 @@
 - 🌱 I’m always learning something new.
 - ⚡ Fun fact: I like to play guitar.
 - 👌🏼 Interests: Problem Solving  , Tech, Music, Workout, Science, and random fun facts.
-- 🔍 Looking for: Internships and SDE roles
+- 🔍 Looking for: SWE roles
 - 👨🏼‍💻 Problem solving profiles: <a href = "https://leetcode.com/SharmaTushar1/">Leetcode</a>, <a href = "https://auth.geeksforgeeks.org/user/jameshowlett/practice/"> GeeksforGeeks</a>, <a href = "https://app.codesignal.com/profile/sharmatushar1">CodeSignal</a>, <a href = "https://www.hackerrank.com/Sharmatushar1">Hackerrank</a>, <a href = "https://www.hackerearth.com/@SharmaTushar1">Hackerearth</a>
 
 ### Connect with me:
