@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tushar Sharma
 
-## I'm a final year CS student pursuing my bachelors degree.
+## I'm a final year CS student pursuing my bachelor`s degree.
 
 - 🌱 I’m always learning something new.
 - ⚡ Fun fact: I like to play guitar.
